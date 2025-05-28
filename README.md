@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+Create a project and new table called 'notes' in Supabase, uncomment Enable Row Level Security, check Enable Realtime, then add a new column (field) named 'content', the type is 'text'.
+
+Go to project overview in Supabase to find your Supabase URL and Anon Key, or click Connect then open tab App Frameworks to see your keys.
+
 First, run the development server:
 
 ```bash
